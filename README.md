@@ -106,5 +106,5 @@ Message shape:
 
 ## Credit
 
-This is built as part of learning JS from SuperSimpleDev Tutorial.
+This is built as part of learning React from SuperSimpleDev Tutorial.
 
